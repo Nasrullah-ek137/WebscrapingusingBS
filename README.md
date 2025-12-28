@@ -62,5 +62,3 @@ and is intended strictly for educational and learning purposes.
 **Mohd Nasrullah Siddiqui**  
 Aspiring Data Analyst  
 GitHub: https://github.com/Nasrullah-ek137
-
-## 📂 Repository Structure
